@@ -23,6 +23,10 @@ nombre_pelicula5="Son como niños"
 genero_pelicula5="Comedia"
 anio_pelicula5=2010
 rating_pelicula5=6.0
+nombre_pelicula6="¿Y donde estan las rubias?"
+genero_pelicula6="Comedia"
+anio_pelicula6=2004
+rating_pelicula6=6.0
 print("---- GENEROS ----")
 print("Accion")
 print("Comedia")
@@ -38,3 +42,5 @@ if (genero_pelicula4==genero_favorito):
     print(nombre_pelicula4)
 if (genero_pelicula5==genero_favorito):
     print(nombre_pelicula5)
+if (genero_pelicula6==genero_favorito):
+    print(nombre_pelicula6)
